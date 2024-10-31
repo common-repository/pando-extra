@@ -1,0 +1,23 @@
+/*
+* Metabox.Io Custom CSS File
+*/
+
+@charset "utf-8";
+.rwmb-text {
+  width: 100%;
+  height: 40px;
+}
+
+.rwmb-field {
+  border-bottom: 1px solid #eee;
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+
+.rwmb-field:last-child {
+  border-bottom: 0;
+}
+
+.rwmb-label label{
+  font-weight: bold;
+}
